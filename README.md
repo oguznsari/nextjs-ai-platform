@@ -15,6 +15,7 @@ npx create-next-app@latest ai-saas --typescript --tailwind --eslint
 npx shadcn-ui@latest add button
 npx shadcn-ui@latest add form
 npx shadcn-ui@latest add input
+npx shadcn-ui@latest add sheet                  # mobile sidebar
 ```
 
 2. [Clerk Authentication](https://clerk.com/)
