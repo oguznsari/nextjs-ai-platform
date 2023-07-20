@@ -16,6 +16,7 @@ npx shadcn-ui@latest add button
 npx shadcn-ui@latest add form
 npx shadcn-ui@latest add input
 npx shadcn-ui@latest add sheet                  # mobile sidebar
+npx shadcn-ui@latest add card
 ```
 
 2. [Clerk Authentication](https://clerk.com/)
