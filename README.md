@@ -3,6 +3,12 @@
 [Next JS AI Platform SaaS](https://www.youtube.com/watch?v=ffJ38dBzrlY)
 
 ---
+| # | Component  | Provider  |
+|--- |---|---|
+| 1 | Conversation | [OpenAi](https://openai.com/) |
+| 2 | Code Generation | [OpenAi](https://openai.com/)  |
+| 3 | Image Generation | [OpenAi](https://openai.com/)  |
+---
 ## Artificial Intelligence SaaS
 > ai-saas
 ``` bash
