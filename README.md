@@ -9,6 +9,7 @@
 | 2 | Code Generation | [OpenAi](https://openai.com/)  |
 | 3 | Image Generation | [OpenAi](https://openai.com/)  |
 | 4 | Music Generation | [Replicate](https://replicate.com/)  |
+| 5 | Video Generation | [Replicate](https://replicate.com/)  |
 ---
 ## Artificial Intelligence SaaS
 > ai-saas
