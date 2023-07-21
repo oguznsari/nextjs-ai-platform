@@ -32,3 +32,17 @@ npx shadcn-ui@latest add avatar
 ``` bash
 npm install @clerk/nextjs
 ```
+
+3. [Prisma DB-ORM](https://www.prisma.io/)
+    ``` bash
+    npm i -D prisma
+    npm i @prisma/client
+    npx prisma init
+    ....
+    npx prisma generate                 # for intellisense
+    npx prisma db push
+
+    npx prisma migrate reset            # how to reset db
+    npx prisma generate                 # pushes model to node modules so you can use
+    npx prisma db push                  # pushed db to remote
+    npx prisma studio                   # management console web app
