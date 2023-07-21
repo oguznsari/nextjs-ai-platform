@@ -8,6 +8,7 @@
 | 1 | Conversation | [OpenAi](https://openai.com/) |
 | 2 | Code Generation | [OpenAi](https://openai.com/)  |
 | 3 | Image Generation | [OpenAi](https://openai.com/)  |
+| 4 | Music Generation | [Replicate](https://replicate.com/)  |
 ---
 ## Artificial Intelligence SaaS
 > ai-saas
