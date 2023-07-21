@@ -26,6 +26,7 @@ npx shadcn-ui@latest add input
 npx shadcn-ui@latest add sheet                  # mobile sidebar
 npx shadcn-ui@latest add card
 npx shadcn-ui@latest add avatar
+npx shadcn-ui@latest add progress
 ```
 
 2. [Clerk Authentication](https://clerk.com/)
@@ -46,3 +47,11 @@ npm install @clerk/nextjs
     npx prisma generate                 # pushes model to node modules so you can use
     npx prisma db push                  # pushed db to remote
     npx prisma studio                   # management console web app
+
+---
+
+### Tricks:
+1. Primary button gradient:
+``` js
+premium: "bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white border-0",
+```

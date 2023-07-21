@@ -54,6 +54,7 @@ const ConversationPage = () => {
             console.log(error);
         } finally {
             router.refresh();
+            // rehydrate all server components fetching the newest data
         }
     }
 
