@@ -48,8 +48,8 @@ npm install @clerk/nextjs
     npx prisma migrate reset            # how to reset db
     npx prisma generate                 # pushes model to node modules so you can use
     npx prisma db push                  # pushed db to remote
+    
     npx prisma studio                   # management console web app
-
 ---
 
 ### Tricks:
