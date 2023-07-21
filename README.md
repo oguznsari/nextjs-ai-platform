@@ -27,6 +27,8 @@ npx shadcn-ui@latest add sheet                  # mobile sidebar
 npx shadcn-ui@latest add card
 npx shadcn-ui@latest add avatar
 npx shadcn-ui@latest add progress
+npx shadcn-ui@latest add dialog                 # for pro-modal
+npx shadcn-ui@latest add badge                  # for pro-modal
 ```
 
 2. [Clerk Authentication](https://clerk.com/)
