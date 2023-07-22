@@ -52,6 +52,8 @@ npx prisma generate                 # pushes model to node modules so you can us
 npx prisma db push                  # pushed db to remote
     
 npx prisma studio                   # management console web app
+
+"postinstall": "prisma generate"    # for deployment add it to the package.json scripts
 ```
 
 4. [Stripe](https://stripe.com/)
