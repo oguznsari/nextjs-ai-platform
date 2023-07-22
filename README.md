@@ -52,6 +52,21 @@ npm install @clerk/nextjs
     npx prisma studio                   # management console web app
 ---
 
+4. [Stripe](https://stripe.com/)
+``` bash
+npm install stripe
+....
+# cli
+stripe login
+stripe listen --forward-to localhost:3000/api/webhook
+```
+5. [Crisp](https://crisp.chat/en/)
+``` bash
+npm install crisp-sdk-web
+```
+
+
+
 ### Tricks:
 1. Primary button gradient:
 ``` js
